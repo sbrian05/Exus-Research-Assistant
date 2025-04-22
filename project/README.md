@@ -1,7 +1,5 @@
 # Exus Research - AI-Powered Research Assistant 🧠
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/papaya-rolypoly-aade4b/deploy-status)](https://papaya-rolypoly-aade4b.netlify.app)
-
 Exus Research is a powerful, AI-driven research assistant that aggregates and searches across multiple academic and web sources to provide comprehensive research results. Built with modern web technologies, it offers an intuitive interface for accessing scholarly articles, web content, and academic resources.
 
 ## 🌟 Features
